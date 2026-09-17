@@ -1,8 +1,8 @@
 ﻿//Zionn Showers
 //9-17-2026
 //Mini Challenge # 10 - Restaurant Picker
-/*The program starts by asking the user of the type of restuarant they want to choose. Afterwards, the program chooses a random number, which will
-decide what restuarant will be chosen from the list of 10 items from each restuarant. For some reason, I found myself struggling a bit to get this
+/*The program starts by asking the user of the type of restaurant they want to choose. Afterwards, the program chooses a random number, which will
+decide what restaurant will be chosen from the list of 10 items from each restuarant. For some reason, I found myself struggling a bit to get this
  working correctly. I tried to mainly focus on arrays as I felt like it would make the code simpler, but it would in return cause me to add a lot
  more code than I anticipated.*/
 //Peer Review: 
@@ -15,7 +15,7 @@ do
 {
 
 Console.WriteLine("");
-Console.WriteLine("Choose a restuarant type: ");
+Console.WriteLine("Choose a restaurant type: ");
 Console.WriteLine("1. Fast Food");
 Console.WriteLine("2. Casual Dining");
 Console.WriteLine("3. Sit Down");
@@ -89,14 +89,14 @@ else if (restType == 3)
     restName[3] = "BJ's";
     restName[4] = "Chili's";
     restName[5] = "Las Casuelas";
-    restName[6] = "DJ's Restuarant";
+    restName[6] = "DJ's Restaurant";
     restName[7] = "Tap House";
     restName[8] = "Bistro 120";
     restName[9] = "The Boathouse";
 }
 
 Console.WriteLine("");
-Console.WriteLine($"Your {restTypeName} restuarant is {restName[restTest]}.");
+Console.WriteLine($"Your {restTypeName} restaurant is {restName[restTest]}.");
 
 
 
