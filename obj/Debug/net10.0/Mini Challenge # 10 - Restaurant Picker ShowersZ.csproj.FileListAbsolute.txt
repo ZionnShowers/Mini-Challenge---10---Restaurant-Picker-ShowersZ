@@ -1,0 +1,14 @@
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 10 - Restaurant Picker ShowersZ\bin\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ShowersZ.exe
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 10 - Restaurant Picker ShowersZ\bin\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ShowersZ.deps.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 10 - Restaurant Picker ShowersZ\bin\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ShowersZ.runtimeconfig.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 10 - Restaurant Picker ShowersZ\bin\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ShowersZ.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 10 - Restaurant Picker ShowersZ\bin\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ShowersZ.pdb
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 10 - Restaurant Picker ShowersZ\obj\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ShowersZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 10 - Restaurant Picker ShowersZ\obj\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ShowersZ.AssemblyInfoInputs.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 10 - Restaurant Picker ShowersZ\obj\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ShowersZ.AssemblyInfo.cs
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 10 - Restaurant Picker ShowersZ\obj\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ShowersZ.csproj.CoreCompileInputs.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 10 - Restaurant Picker ShowersZ\obj\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ShowersZ.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 10 - Restaurant Picker ShowersZ\obj\Debug\net10.0\refint\Mini Challenge # 10 - Restaurant Picker ShowersZ.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 10 - Restaurant Picker ShowersZ\obj\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ShowersZ.pdb
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 10 - Restaurant Picker ShowersZ\obj\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ShowersZ.genruntimeconfig.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 10 - Restaurant Picker ShowersZ\obj\Debug\net10.0\ref\Mini Challenge # 10 - Restaurant Picker ShowersZ.dll
