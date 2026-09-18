@@ -5,8 +5,8 @@
 decide what restaurant will be chosen from the list of 10 items from each restuarant. For some reason, I found myself struggling a bit to get this
  working correctly. I tried to mainly focus on arrays as I felt like it would make the code simpler, but it would in return cause me to add a lot
  more code than I anticipated.*/
-//Peer Review: 
-/*Review:*/
+//Peer Review: Valery Lot
+/*Review: Flow chart looks good. Code works as intended. I like the idea of using arrays, I wish I thought of that. */
 
 Console.Clear();
 
